@@ -1,2 +1,2 @@
 # Portfolio-site
-A web porfolio describing my work in front-end
+My portfolio website built with HTML, CSS, and animations
